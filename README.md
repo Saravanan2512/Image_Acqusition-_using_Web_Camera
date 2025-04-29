@@ -25,7 +25,7 @@ Import CV2,numpy and the other required libraries
 
 ## Program:
 ```
-### Developed By: Saravanan H
+### Developed By: Saravanan G
 ### Register No: 212223230194
 
 ## i) Write the frame as JPG file
@@ -123,7 +123,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![Uploading Screenshot 2025-04-29 090401.png…]()
+
+![Screenshot 2025-04-29 090401](https://github.com/user-attachments/assets/d1aeef93-da38-4f4f-b221-aa613ad3c025)
 
 
 
